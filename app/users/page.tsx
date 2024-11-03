@@ -2,7 +2,7 @@
 
 import { Card, CardContent } from "@/components/ui/card";
 import { useEffect, useState } from "react";
-import { FiMail, FiPhone, FiUser } from "react-icons/fi"; // Importing icons for a polished look
+import { FiMail, FiPhone, FiUser } from "react-icons/fi"; 
 
 type User = {
   id: number;
